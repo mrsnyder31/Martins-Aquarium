@@ -1,0 +1,36 @@
+.pageHeader {
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+
+.shop {
+    border: 2px dotted black;
+    color: black;
+    flex-basis: 30%;
+    padding: 4px;
+
+}
+
+.congress-rep-info {
+    border: 2px dotted seagreen;
+    margin-bottom: 30px;
+
+}
+.congress-rep-committee {
+    border: 2px dotted blueviolet;
+    margin-bottom: 10px;
+
+}
+.congress-rep-legislation {
+    border: 2px dotted brown;
+
+}
